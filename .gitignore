@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.pyo
+*.pyd
+
+# Virtual environments
+chat_env/
+venv/
+env/
+*.venv/
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Environment variables and secrets
+.env
+*.env
+
+# Streamlit cache
+.streamlit/
+.stcache/
+.stcache/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+*.bak
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+*.DS_Store
+
+# Node.js (if applicable)
+node_modules/
+package-lock.json
+yarn.lock
